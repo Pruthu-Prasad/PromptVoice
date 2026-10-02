@@ -6,7 +6,7 @@ No cloud, no network calls after setup, CPU only.
 
 **[Download the installer](../../releases/latest)** · [Setup & build guide](SETUP.md) · MIT licensed
 
-Target: Xiaomi Notebook Pro 120, i5-12450H, 16 GB RAM, integrated graphics.
+Target: Laptops withintegrated graphics that cannot run larger models offline.
 
 ## Usage
 
