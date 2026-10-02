@@ -1,0 +1,15 @@
+bin/
+obj/
+publish/
+dist/
+.vs/
+*.user
+PromptVoice/runtime/whisper.cpp/
+PromptVoice/runtime/*.bin
+PromptVoice/runtime/*.dll
+PromptVoice/runtime/*.exe
+PromptVoice/runtime/*.log
+PromptVoice/runtime/*.wav
+PromptVoice/runtime/settings.json
+PromptVoice/runtime/history.json
+PromptVoice/runtime/last-transcription.txt
